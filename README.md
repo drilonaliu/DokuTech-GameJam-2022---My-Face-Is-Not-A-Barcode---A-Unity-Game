@@ -2,11 +2,12 @@
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/84543584/198857459-6cdb77f8-689d-4ddc-a401-c483218d4f0f.gif)
 
-This is a 2D game developed within 48 hours for DokuTech's game jam 2022 event with the theme "My Face Is Not A Barcode". Just as in life it is hard navigating in the internet without our data being analysed, the game represents the difficulty of moving around without being detected. Built with Unity, play as a character inside a QR Code maze with the goal of reaching the finish line without being detected by the cameras. Can you find your way out? 
-
+This is a 2D game developed within 48 hours for DokuTech's game jam 2022 event with the theme "My Face Is Not A Barcode".Built with Unity, play as a character inside a QR Code maze with the goal of reaching the finish line without being detected by the cameras. Can you find your way out? 
+ 
 Based on the description of the game the following architecture was obtained: 
 
-:insert architecture of the game: 
+![QRdiagram (2)](https://user-images.githubusercontent.com/84543584/199014879-465f32dc-f306-4dfb-a89e-1a6578283b1f.jpg)
+
 
 ## Camera zoom out 
 
